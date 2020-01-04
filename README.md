@@ -6,7 +6,7 @@ This proposed technique uses dataset from See In the Dark(SID) dataset which is 
 
 
 After download the origin dataset, please run the following python command line to convert original dataset to .tiff file.
-python3 raw2fill.py 
+python3 raw2tiff.py 
 
 To train the network 
 <br/>python3 train.py 
